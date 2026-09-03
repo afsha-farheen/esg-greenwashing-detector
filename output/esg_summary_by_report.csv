@@ -1,0 +1,10 @@
+sector,company,year,total_sentences,concrete_count,vague_count,neutral_count,specificity_pct
+IT,TCS,2025,69,21,4,44,30.4
+IT,Infosys,2025,763,230,37,496,30.1
+FMCG,ITC,2024,833,223,28,582,26.8
+IT,Infosys,2024,582,140,34,408,24.1
+IT,TCS,2024,300,69,4,227,23.0
+Manufacturing,TataSteel,2024,1849,403,86,1360,21.8
+Banking,HDFC,2023,405,78,33,294,19.3
+Banking,HDFC,2024,450,66,29,355,14.7
+Manufacturing,TataSteel,2025,457,53,15,389,11.6

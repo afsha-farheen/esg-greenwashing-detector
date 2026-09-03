@@ -1,0 +1,5 @@
+sector,total_sentences,concrete_count,vague_count,specificity_pct
+FMCG,833,223,28,26.8
+IT,1714,460,79,26.8
+Manufacturing,2306,456,101,19.8
+Banking,855,144,62,16.8
