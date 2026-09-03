@@ -4,8 +4,7 @@ An NLP-based tool that detects **greenwashing** in corporate ESG (Environmental,
 Social, Governance) reports — flagging vague, promotional sustainability
 language versus specific, verifiable claims backed by real data.
 
-**🔗 Live demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) *(update this link after deploying)*
-
+**🔗 Live demo:** https://esg-greenwashing-detector-ltvri2yhwvkykvbawmbkl9.streamlit.app/
 ---
 
 ## The Problem
@@ -110,9 +109,7 @@ TCS, Infosys, Tata Steel, HDFC Life, and ITC.
 
 ## Team
 
-This was built as a mini-project by a team of 4, dividing work across:
-data collection & PDF pipeline, rule-based engine development, ML
-classifier training, and dashboard/analysis.
+"This started as a college mini-project with a team of 4 — together we built the data pipeline and rule-based v1 detector. I then took it further on my own: I built the ML classifier (v2), did the error analysis comparing the two approaches, built the interactive dashboard, and deployed the whole thing publicly."
 
 ---
 
